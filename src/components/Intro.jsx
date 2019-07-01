@@ -45,12 +45,12 @@ const Card = () => (
       <p>
         <em>Tension Design</em> is a web-design studio based in Amsterdam.
         <br /> Our goal is to develop state-of-the-art generative design and
-        web-applications.<br />
-        <br /> See our
+        web-applications. <br />
+        <br />See our{" "}
         <a href={"https://marktension.home.blog/"}>
-          <emph> Blog</emph>
+          <emph>Blog</emph>
         </a>{" "}
-        for our latest progress, and scroll down for past work experience.
+        for our latest progress, and scroll down for past projects.
       </p>
     </Text>
   </Container_out>

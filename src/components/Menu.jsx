@@ -32,8 +32,7 @@ const Content = styled.div`
 const ButtonContainer = styled.div`
   padding: 0px 0px;
   display: flex;
-  /* border: 1px solid papayawhip;
-  border-radius: 10px; */
+
   flex-direction: row;
 `;
 
@@ -41,13 +40,17 @@ const Button = styled.div`
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   padding: 5px
+  border-radius: 10px;
   margin: 10px
+  background-color: Snow
   color: palevioletred;
   opacity: 1;
   font-size: 1.4rem;
   cursor: pointer;
   :hover {
-    color: palevioletred;
+    color: black;
+    font-weight: 400;
+    text-decoration: underline;
   }
 `;
 
@@ -75,7 +78,7 @@ const Menu = () => (
               animateScrollTo(document.querySelector("#work"));
             }}
           >
-            work
+            past work
           </Button>
           <Button
             onClick={() => {
@@ -85,12 +88,13 @@ const Menu = () => (
             design/illustration
           </Button>
 
+          <Button>
+            <a href={"https://marktension.home.blog/"}>blog</a>
+          </Button>
           <Button
-            onClick={() =>
-              window.location.assign("https://marktension.home.blog/")
-            }
+            onClick={() => animateScrollTo(document.querySelector("#footer"))}
           >
-            blog
+            contact
           </Button>
         </ButtonContainer>
       </Content>

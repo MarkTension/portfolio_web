@@ -27,23 +27,18 @@ a {
   text-decoration: none;
 }
 
-.footer {
-  flex-shrink: 0;
+a:hover {
+  color: white;
+  font-weight: 400;
+  text-decoration: underline;
 }
 
-.imager_m {
-  height: 40vmin;
-  margin: 12px;
+a:visited {
+  color: palevioletred;
 }
-.imager_l {
-  height: 50vmin;
-  margin: 12px;
-}
-.imager_s {
-  height: 40vmin;
-}
-.imager_xs {
-  height: 20vmin;
+
+.footer {
+  flex-shrink: 0;
 }
 
 .marginTop {
