@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MarkTension/portfolio_web/precache-manifest.ba0264019791e8502ccd64119f7ed630.js"
+  "/MarkTension/portfolio_web/precache-manifest.f4a47cf6f290d99874bffe1e91cdd3a0.js"
 );
 
 self.addEventListener('message', (event) => {
