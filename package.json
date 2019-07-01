@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "animated-scroll-to": "^1.2.2",
+    "gh-pages": "^2.0.1",
     "paper": "^0.12.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -38,5 +39,9 @@
     "file-loader": "^4.0.0",
     "image-webpack-loader": "^5.0.0"
   },
-  "homepage": "https://yourusername.github.io/repository-name"
+  "homepage": "https://yourusername.github.io/repository-name",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
 }
