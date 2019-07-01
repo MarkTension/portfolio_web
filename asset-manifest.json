@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MarkTension/portfolio_web/static/css/main.01c78356.chunk.css",
+    "main.js": "/MarkTension/portfolio_web/static/js/main.cf1f859d.chunk.js",
+    "main.js.map": "/MarkTension/portfolio_web/static/js/main.cf1f859d.chunk.js.map",
+    "runtime~main.js": "/MarkTension/portfolio_web/static/js/runtime~main.47d05f97.js",
+    "runtime~main.js.map": "/MarkTension/portfolio_web/static/js/runtime~main.47d05f97.js.map",
+    "static/js/2.1ccdc38f.chunk.js": "/MarkTension/portfolio_web/static/js/2.1ccdc38f.chunk.js",
+    "static/js/2.1ccdc38f.chunk.js.map": "/MarkTension/portfolio_web/static/js/2.1ccdc38f.chunk.js.map",
+    "index.html": "/MarkTension/portfolio_web/index.html",
+    "precache-manifest.de6bd2bd26099bc140f6d8c287dac997.js": "/MarkTension/portfolio_web/precache-manifest.de6bd2bd26099bc140f6d8c287dac997.js",
+    "service-worker.js": "/MarkTension/portfolio_web/service-worker.js",
+    "static/css/main.01c78356.chunk.css.map": "/MarkTension/portfolio_web/static/css/main.01c78356.chunk.css.map",
+    "static/media/MIT.png": "/MarkTension/portfolio_web/static/media/MIT.0fc2ce35.png",
+    "static/media/cremey.png": "/MarkTension/portfolio_web/static/media/cremey.0c37d7c5.png",
+    "static/media/logo.png": "/MarkTension/portfolio_web/static/media/logo.6533b353.png",
+    "static/media/plantvision.png": "/MarkTension/portfolio_web/static/media/plantvision.afa24e76.png",
+    "static/media/uva.png": "/MarkTension/portfolio_web/static/media/uva.f07b61b4.png",
+    "static/media/wordpress_ico.png": "/MarkTension/portfolio_web/static/media/wordpress_ico.ba399827.png"
+  }
+}
