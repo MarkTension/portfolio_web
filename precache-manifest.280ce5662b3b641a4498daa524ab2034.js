@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2dd625cc68d9f98ee58d85272720f30",
+    "revision": "e230a953836c1ad5a04d19a1e36d7969",
     "url": "/MarkTension/portfolio_web/index.html"
   },
   {
-    "revision": "4366ae610c5421f3b256",
+    "revision": "73d6310982bfdfdf612d",
     "url": "/MarkTension/portfolio_web/static/css/main.01c78356.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarkTension/portfolio_web/static/js/2.1ccdc38f.chunk.js"
   },
   {
-    "revision": "4366ae610c5421f3b256",
-    "url": "/MarkTension/portfolio_web/static/js/main.cf1f859d.chunk.js"
+    "revision": "73d6310982bfdfdf612d",
+    "url": "/MarkTension/portfolio_web/static/js/main.62195bda.chunk.js"
   },
   {
     "revision": "f4d0fa3f01eacec2d01d",
