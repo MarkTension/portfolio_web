@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e230a953836c1ad5a04d19a1e36d7969",
+    "revision": "143f99a4b17b7a0747b54aa198cbfa77",
     "url": "/MarkTension/portfolio_web/index.html"
   },
   {
