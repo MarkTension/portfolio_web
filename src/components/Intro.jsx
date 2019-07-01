@@ -48,7 +48,7 @@ const Card = () => (
         web-applications. <br />
         <br />See our{" "}
         <a href={"https://marktension.home.blog/"}>
-          <emph>Blog</emph>
+          <emph>blog</emph>
         </a>{" "}
         for our latest progress, and scroll down for past projects.
       </p>
